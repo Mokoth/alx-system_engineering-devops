@@ -1,0 +1,5 @@
+# SHELL PERMISSIONS - BASH PROJECTS
+
+## Tasks
+
+
